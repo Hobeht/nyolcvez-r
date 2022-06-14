@@ -1,0 +1,6 @@
+.container{display:grid;
+grid-template-columns: 80px 80px 80px 80px 80px 80px 80px 80px;
+grid-template-rows: 80px 80px 80px 80px 80px 80px 80px 80px;}
+.grid{border: black 1px solid;}
+.kep{display:none;}
+.kep.show{display: content;}
